@@ -17,7 +17,7 @@ ALGAN Cipher is a Python application that allows users to encrypt and decrypt te
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ALGAN-Cipher.git](https://github.com/muhammetalgan/PRODIGY_CS_TASK-01.git
+    git clone https://github.com/muhammetalgan/PRODIGY_CS_TASK-01.git
 )
     ```
 
