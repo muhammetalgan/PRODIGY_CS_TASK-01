@@ -34,7 +34,7 @@ ALGAN Cipher is a Python application that allows users to encrypt and decrypt te
 1. Run the Python script:
 
     ```bash
-    python ALGAN_cipher.py
+    python ceaser_encrypt_decrypt_full_version.py
     ```
 
 2. Enter the text you want to encrypt or decrypt when prompted.
@@ -44,7 +44,3 @@ ALGAN Cipher is a Python application that allows users to encrypt and decrypt te
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
