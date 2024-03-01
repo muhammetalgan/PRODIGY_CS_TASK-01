@@ -1,18 +1,14 @@
 # ALGAN Cipher Encryption and Decryption
 
-ALGAN Cipher, basit bir Caesar Şifreleme ve Şifre Çözme aracıdır. Bu araç, metinleri belirli bir kaydırma değeriyle şifreler ve bu şifrelemeyi geri çözebilir.
+ALGAN Cipher is a simple Caesar Cipher Encryption and Decryption tool. This tool encrypts texts with a specified shift value and can decrypt the encryption.
 
-## Kullanım
+## Usage
 
-1. **Metin Girme:** Şifrelemek veya çözmek istediğiniz metni "Enter text..." alanına girin.
-2. **Kaydırma Değeri:** Şifreleme veya çözme için bir kaydırma değeri belirtin.
-3. **Şifreleme ve Çözme:** "Encrypt" veya "Decrypt" düğmelerinden birini tıklayarak işlemi gerçekleştirin.
-4. **Çıktı:** Şifrelenmiş veya çözülmüş metni "Output" alanında göreceksiniz.
+1. **Entering Text:** Enter the text you want to encrypt or decrypt into the "Enter text..." field.
+2. **Shift Value:** Specify a shift value for encryption or decryption.
+3. **Encryption and Decryption:** Perform the operation by clicking either the "Encrypt" or "Decrypt" buttons.
+4. **Output:** You will see the encrypted or decrypted text in the "Output" area.
 
-## Örnek
 
-![ALGAN Cipher](example.png)
 
-## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
